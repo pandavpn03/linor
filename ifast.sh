@@ -1,6 +1,6 @@
 #!/bin/bash
 ##Dababase Server
-HOST='185.2.168.30'
+HOST='185.2.168.53'
 USER='solidvpn_api'
 PASS='solidvpn_api'
 DB='solidvpn_api'
